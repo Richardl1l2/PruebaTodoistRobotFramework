@@ -1,4 +1,4 @@
-# Proyecto castor :shipit:
+:eye_speech_bubble: # Proyecto castor :nerd_face:
 
 En el siguiente archivo encontrarán toda la información sobre el Proyecto Castor Automation QA.
 
