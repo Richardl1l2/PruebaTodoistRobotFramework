@@ -1,4 +1,4 @@
-# Proyecto castor
+# Proyecto castor :shipit:
 
 En el siguiente archivo encontrarán toda la información sobre el Proyecto Castor Automation QA.
 
