@@ -62,18 +62,19 @@ Para ejecutar los tests, sigue los siguientes comandos:
   Project/
 │
 ├── PageObject/
-│   ├── LoginPage.py
-│   ├── DashboardPage.py
-│   └── OtherPage.py
+│   ├── Examplelocators.py
+│   ├── Examplelocators.py
+│   └── Examplelocators.py
+|   └── Examplelocators.py
 │
 ├── Resources/
-│   ├── locators.py
-│   └── constants.py
-│
+│   ├── Examplekeywords.robot
+│   └── Examplekeywords.robot
+│   └── Examplekeywords.robot
 └── TestCases/
-    ├── test_login.py
-    ├── test_dashboard.py
-    └── test_other.py
+    ├── Exampletest.robot
+    ├── Exampletest.robot
+    └── Exampletest.robot
 
 ```
 
