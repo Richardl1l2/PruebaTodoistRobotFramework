@@ -3,7 +3,6 @@
 En el siguiente archivo encontrarán toda la información sobre el Proyecto Castor Automation QA.
 
 - Instalación
-- Configuración
 - Ejecución
 - Estructura
 
