@@ -5,8 +5,8 @@ Library    String                                          #Se usa la Libreria p
 *** Variables ***
 ${Browser}    chrome
 ${SiteUrl}    https://app.todoist.com/auth/login           #Datos usados para el login
-${email}  richard.18.1994@hotmail.com
-${pwd}    123456789rrrR*
+${email}  #Ingresarcorreo
+${pwd}    #Ingresarpasword
 ${titleTarget}    pruebaqa                                  #Se agrega el string a los datos aleatorios 
 *** Test Cases ***
 

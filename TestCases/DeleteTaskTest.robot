@@ -5,8 +5,8 @@ Resource    ../Resources/DeleteTaskKeywords.robot
 *** Variables ***
 ${Browser}    chrome
 ${SiteUrl}    https://app.todoist.com/app/inbox
-${email}  richard.18.1994@hotmail.com
-${pwd}    123456789rrrR*
+${email}  #Ingresarcorreo
+${pwd}    #Ingresarpasword
 
 *** Test Cases ***
 

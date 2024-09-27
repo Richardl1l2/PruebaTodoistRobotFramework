@@ -5,8 +5,8 @@ Library    String
 *** Variables ***
 ${Browser}    chrome
 ${SiteUrl}    https://app.todoist.com/app/inbox
-${email}  richard.18.1994@hotmail.com
-${pwd}    123456789rrrR*
+${email}  #Ingresarcorreo
+${pwd}    #Ingresarpasword
 ${newcomment}    Comentarinouevoparaprueba
 
 *** Test Cases ***
