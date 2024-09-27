@@ -5,6 +5,12 @@ En el siguiente archivo encontrarán toda la información sobre el Proyecto Cast
 - Instalación
 - Ejecución
 - Estructura
+  
+## Precondición
+
+Se debe resgistrar en la plataforma https://app.todoist.com/auth/login y agregar el correo y contraseña en los campos de cada TestCase
+${email}  #Ingresarcorreo
+${pwd}    #Ingresarpasword
 
 ## Instalación
 
