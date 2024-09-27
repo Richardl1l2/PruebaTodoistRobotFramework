@@ -41,10 +41,6 @@ pip install robotframework-seleniumlibrary
   ```bash
 pip install robotframework
 ``` 
- Instalar SeleniumLibrary (si necesitas pruebas web):
-  ```bash
-pip install robotframework-seleniumlibrary
-``` 
  Instalar comando para ejecutar pruebas: 
    ```bash
 pip install robotframework-retryfailed
