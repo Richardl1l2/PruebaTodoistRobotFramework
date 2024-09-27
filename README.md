@@ -2,6 +2,7 @@
 
 En el siguiente archivo encontrarán toda la información sobre el Proyecto Todoist Automation QA.
 
+- Precondición
 - Instalación
 - Ejecución
 - Estructura
