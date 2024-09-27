@@ -9,8 +9,10 @@ En el siguiente archivo encontrarán toda la información sobre el Proyecto Cast
 ## Precondición
 
 Se debe resgistrar en la plataforma https://app.todoist.com/auth/login y agregar el correo y contraseña en los campos de cada TestCase
+```bash
 ${email}  #Ingresarcorreo
 ${pwd}    #Ingresarpasword
+```
 
 ## Instalación
 
