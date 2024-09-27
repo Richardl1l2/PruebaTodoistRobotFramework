@@ -1,6 +1,7 @@
  # Proyecto Todoist :nerd_face:
 
 En el siguiente archivo encontrarán toda la información sobre el Proyecto Todoist Automation QA.
+La automatización permite agregar, editar y eliminar tareas
 
 - Precondición
 - Instalación
